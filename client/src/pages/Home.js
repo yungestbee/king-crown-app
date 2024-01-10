@@ -202,7 +202,7 @@ const Home = () => {
             <div className="col-12">
               <div className="marquee-inner-wrapper">
                 <Marquee>
-                  Welcome to my world
+                  <img src="images/service.png" alt="service" />
                 </Marquee>
                </div>
             </div>
