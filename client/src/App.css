@@ -48,3 +48,9 @@ a {
 .gap30 {
   gap: 30px;
 }
+
+.card-wrapper {
+  background-color: #fff;
+  box-shadow: 0 0 10px #0000001a;
+  padding: 15px;
+}
