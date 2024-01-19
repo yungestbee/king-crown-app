@@ -1,5 +1,14 @@
-.blog-card{
-    background-color: #fff;
-    padding: 20px;
-    border-radius: 10px;
+.blog-card {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+}
+
+.blog-card img {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+}
+
+.blog-content {
+  padding: 15px;
 }
