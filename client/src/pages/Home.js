@@ -239,7 +239,7 @@ const Home = () => {
             <BlogCard date="12 Dec 2023" />
             <BlogCard date="22 Feb 2022" />
             <BlogCard date="22 Feb 2022" />
-            <BlogCard />
+            <BlogCard date="22 Feb 2022" />
           </div>
         </div>
       </section>
