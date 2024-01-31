@@ -236,6 +236,9 @@ const Home = () => {
       <section className="blog-wrapper py-5 home-wrapper-2">
         <div className="container-xxl">
           <div className="row">
+            <h3 className="section-heading">
+              Our Latest Blogs
+            </h3>
             <BlogCard date="12 Dec 2023" />
             <BlogCard date="22 Feb 2022" />
             <BlogCard date="22 Feb 2022" />
